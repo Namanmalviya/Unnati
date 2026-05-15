@@ -1,0 +1,125 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "Mahindra",
+      "type": "Full Time",
+      "location": "Indore, MP",
+      "salary": 20000,
+      "description": "Looking for React/Node.js fresher engineers to join the team."
+    },
+    {
+      "id": 2,
+      "title": "Data Analyst",
+      "company": "TCS",
+      "type": "Full Time",
+      "location": "Mumbai, Maharashtra",
+      "salary": 40000,
+      "description": "Analyze datasets and support data-driven decisions."
+    },
+     {
+      "id": 3,
+      "title": "Graphic Designer",
+      "company": "Wipro",
+      "type": "Full Time",
+      "location": "Pune, Maharashtra",
+      "salary": 25000,
+      "description": "Creative designer needed for social media and branding work."
+    },
+    {
+      "id": 4,
+      "title": "Customer Support Associate",
+      "company": "Amazon",
+      "type": "Full Time",
+      "location": "Hyderabad, Telangana",
+      "salary": 23000,
+      "description": "Provide customer support through calls and emails."
+    }
+  ],
+  "internships": [
+    {
+      "id": 1,
+      "title": "Digital Marketing Intern",
+      "company": "Infosys",
+      "duration": "3 months",
+      "location": "Bangalore",
+      "stipend": 10000,
+      "description": "Assist in SEO, content creation, and social media campaigns."
+    },
+    {
+      "id": 2,
+      "title": "AI Research Intern",
+      "company": "Google Research India",
+      "duration": "6 months",
+      "location": "Bangalore",
+      "stipend": 50000,
+      "description": "Work with AI/ML research team on experimental projects."
+    }
+  ],
+  "schemes": [
+    {
+      "id": 1,
+      "title": "Pradhan Mantri Kaushal Vikas Yojana",
+      "category": "Government Scheme",
+      "eligibility": "Indian citizens aged 18-35",
+      "benefits": "Free skill training and certification",
+      "description": "Flagship skill development scheme by Govt of India."
+    },
+    {
+      "id": 2,
+      "title": "Startup India Seed Fund",
+      "category": "Government Scheme",
+      "eligibility": "Registered Indian startups",
+      "benefits": "Seed funding up to ₹50 lakhs",
+      "description": "Funding support for early-stage startups."
+    }
+  ],
+  "organizations": [
+    {
+      "id": 1,
+      "name": "Sakhi NGO",
+      "focus": "Women Empowerment",
+      "location": "Delhi",
+      "opportunities": "Volunteering, Social Work",
+      "description": "NGO dedicated to improving lives of rural women."
+    },
+    {
+      "id": 2,
+      "name": "Teach For India",
+      "focus": "Education",
+      "location": "Pan India",
+      "opportunities": "Teaching Fellowship, Internships",
+      "description": "Organization working to eliminate educational inequality."
+    }
+  ],
+  "competition": [
+    {
+      "id": 1,
+      "title": "Women in Tech Hackathon",
+      "organizer": "Microsoft India",
+      "eligibility": "Female students and professionals",
+      "prize": "₹1,00,000 + Internship offers",
+      "date": "15th October 2025",
+      "description": "A national hackathon encouraging women developers to solve real-world problems using AI and Cloud."
+    },
+    {
+      "id": 2,
+      "title": "SheLeads Innovation Challenge",
+      "organizer": "NITI Aayog",
+      "eligibility": "Female entrepreneurs & innovators",
+      "prize": "₹5,00,000 seed funding",
+      "date": "1st December 2025",
+      "description": "Competition to support women-led startups with funding and mentorship."
+    },
+    {
+      "id": 3,
+      "title": "Women Coding Olympiad",
+      "organizer": "Coding Ninjas",
+      "eligibility": "Female students in CS/IT",
+      "prize": "Scholarships + Job Offers",
+      "date": "20th November 2025",
+      "description": "Online coding competition to showcase skills in algorithms and problem-solving."
+    }
+  ]
+}
