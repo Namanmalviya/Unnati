@@ -1,8 +1,0 @@
-{
-  "devDependencies": {
-    "ajv": "^7.2.4"
-  },
-  "dependencies": {
-    "react-scripts": "^5.0.1"
-  }
-}
